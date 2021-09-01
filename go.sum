@@ -1,0 +1,6 @@
+github.com/aashritagoel/go-module v0.0.0-20210830094401-88f9b8866261 h1:sev1k74DT5+/bIs3khZmcxZVoGZZyTPylhvcSbnmCC4=
+github.com/aashritagoel/go-module v0.0.0-20210830094401-88f9b8866261/go.mod h1:ouW8RaodIKyZZ6Ctj5aE+1KavUg7pKJWazHeMsg4xaM=
+github.com/aashritagoel/go-module v0.0.0-20210901163936-2ce48db18cdc h1:W5beWv7I8EipB1XHnHmYvxN1c/Dy4hQotaPW1Sy5GHI=
+github.com/aashritagoel/go-module v0.0.0-20210901163936-2ce48db18cdc/go.mod h1:ouW8RaodIKyZZ6Ctj5aE+1KavUg7pKJWazHeMsg4xaM=
+github.com/op/go-logging v0.0.0-20160315200505-970db520ece7 h1:lDH9UUVJtmYCjyT0CI4q8xvlXPxeZ0gYCVvWbmPlp88=
+github.com/op/go-logging v0.0.0-20160315200505-970db520ece7/go.mod h1:HzydrMdWErDVzsI23lYNej1Htcns9BCg93Dk0bBINWk=
